@@ -7,3 +7,4 @@ jdk:
   - oraclejdk8
 notifications:
   slack: frc1360:Mtibpb4AQyefRMzQb2VEiB8J
+  email: false
